@@ -5,3 +5,18 @@ answer: initializing a repository enables git to monitor a directory and the nee
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 answer: the staging area is different from the working directory because the it stores file that are ready to be commit. while repository is where the record of the commit is stored.
+
+How can you use the staging area to make sure you have one commit per logical change
+
+answer:by ensuring that changes made in the working directory are added to staging area in turn added to the repository.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+answer: branches would help when working on experimental features or adding extra features.
+
+How do the diagrams help you visualize the branch structure
+
+answer: it helps one to understand how the commit are organized respectively to their branch.
+
+
+answer:
